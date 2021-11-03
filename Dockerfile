@@ -1,8 +1,8 @@
 #Repo Clonning ⚡♥️
-RUN git clone https://github.com/LEGEND-OS/LEGENDUSERBOT.git /root/userbot
+RUN git clone https://github.com/mafiarishabh/Surturbot.git /root/Surturbot
 
 #working directory 
-WORKDIR /root/userbot
+WORKDIR /root/Surturbot
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
