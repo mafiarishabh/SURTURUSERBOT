@@ -36,7 +36,7 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $SURTURUSERPATH
-    echo "    ⚜️Starting suturuserbot⚜️     "
+    echo "    ⚜️Starting suturuserbot💙     "
     echo "
     SURTURUSERBOT
     "
